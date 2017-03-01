@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "5tF-V3-fSa"; */
+"5tF-V3-fSa.text" = "País";
+
+/* Class = "UILabel"; text = "First Name : "; ObjectID = "Kif-nI-S6h"; */
+"Kif-nI-S6h.text" = "Nombre de pila :";
+
+/* Class = "UILabel"; text = "Modi"; ObjectID = "OQy-7U-f3z"; */
+"OQy-7U-f3z.text" = "Modi";
+
+/* Class = "UILabel"; text = "Kirit"; ObjectID = "PbD-1y-MJC"; */
+"PbD-1y-MJC.text" = "Ciro";
+
+/* Class = "UILabel"; text = "Localization Demo"; ObjectID = "r2Y-Jt-A8e"; */
+"r2Y-Jt-A8e.text" = "demostración de localización";
+
+/* Class = "UILabel"; text = "Last Name : "; ObjectID = "tYU-Fj-rna"; */
+"tYU-Fj-rna.text" = "Apellido :";
+
+/* Class = "UILabel"; text = "Last Name : "; ObjectID = "1dF-5w-org"; */
+"1dF-5w-org.text" = "amo mi país";
